@@ -43,6 +43,6 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 ### 11. Contact Us
 
-If you have any questions about these Terms, please contact us at [Your Contact Email Address].
+If you have any questions about these Terms, please contact us at smoketest@gmail.com.
 
 By using ChargeNear, you acknowledge that you have read, understood, and agree to these Terms of Service.
