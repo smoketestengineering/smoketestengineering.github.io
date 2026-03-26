@@ -1,3 +1,7 @@
+---
+layout: post
+title: ChargeNear
+---
 # Terms of Service
 #### Last Updated: March 26, 2026
 Welcome to ChargeNear! These Terms of Service ("Terms") govern your access to and use of the ChargeNear mobile application (the "App"), which allows you to locate nearby Electric Vehicle (EV) chargers. By accessing or using the App, you agree to be bound by these Terms.
