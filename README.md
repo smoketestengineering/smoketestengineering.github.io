@@ -1,4 +1,5 @@
-![icon](./images/chargenear-icon-any.png)
+<img src="./images/chargenear-icon-any.png" alt="icon" width=100 height=100>
+
 # Welcome to ChargeNear
 
 ##### Find your charge. Wherever you are.
