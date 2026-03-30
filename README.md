@@ -1,3 +1,4 @@
+![icon](./images/chargenear-icon-any.png)
 # Welcome to ChargeNear
 
 ##### Find your charge. Wherever you are.
