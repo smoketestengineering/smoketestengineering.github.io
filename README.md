@@ -1,4 +1,6 @@
-<img src="./images/chargenear-icon-any.png" alt="icon" width=100 height=100>
+<a href="https://apps.apple.com/us/app/chargenear/id6760877930">
+  <img src="./images/chargenear-icon-any.png" alt="View in Apple App Store" width="100" height="100">
+</a>
 
 # Welcome to ChargeNear
 
